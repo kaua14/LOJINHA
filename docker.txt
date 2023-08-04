@@ -1,0 +1,27 @@
+1º Ligar a máquina, desabilitar UWF e reiniciar
+
+2º Abrir bat do docker e depois o docker
+
+3º Abrir um cmd e digitar
+
+cd/
+
+mkdir bigdata
+
+cd bigdata
+
+git clone [https://github.com/fabiogjardim/bigdata_docker.git](https://github.com/fabiogjardim/bigdata_docker.git "smartCard-inline")
+
+git clone https://github.com/fabiogjardim/bigdata_docker.git
+
+cd bigdata_docker
+
+docker-compose up -d
+
+aguardar as imagens serem baixadas e criadas
+
+4º Reiniciar o computador (NÃO HABILITAR UWF SEM REINICIAR)
+
+5º Ativar o UWF e reiniciar o computador novamente
+
+6º Desligar o computador

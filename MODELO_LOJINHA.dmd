@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="MODELO_LOJINHA" id="96DB8630-DC2E-87A0-7B2B-A6E825980F96" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2023-08-04 10:52:54 UTC</createdTime>
+<ownerDesignName>MODELO_LOJINHA</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>96DB8630-DC2E-87A0-7B2B-A6E825980F96</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="8C8DE829-16D6-2F71-2C3E-A604FD349DD3">
+<designStoragePath>C:\SCRIPT_MODELO_PEDIDO</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>

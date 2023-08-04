@@ -1,0 +1,48 @@
+Oracle SQL Developer Data Modeler 23.1.0.087.0806
+Oracle SQL Developer Data Modeler Import Log
+Date and Time: 2023-08-04 09:19:34 BRT
+Design Name: SCRIPT_MODELO_PEDIDO
+RDBMS : Oracle Database 21c
+
+		All Statements: 		120
+		Imported Statements: 	102
+		Failed Statements: 		0
+		Not Recognized Statements: 	18
+
+<<<<< Not Recognized >>>>>
+DROP TABLE movimento_estoque CASCADE CONSTRAINTS
+
+DROP TABLE produto_composto CASCADE CONSTRAINTS
+
+DROP TABLE historico_pedido CASCADE CONSTRAINTS
+
+DROP TABLE item_pedido CASCADE CONSTRAINTS
+
+DROP TABLE pedido CASCADE CONSTRAINTS
+
+DROP TABLE usuario CASCADE CONSTRAINTS
+
+DROP TABLE cliente_vendedor CASCADE CONSTRAINTS
+
+DROP TABLE vendedor CASCADE CONSTRAINTS
+
+DROP TABLE endereco_cliente CASCADE CONSTRAINTS
+
+DROP TABLE tipo_endereco CASCADE CONSTRAINTS
+
+DROP TABLE estoque_produto CASCADE CONSTRAINTS
+
+DROP TABLE produto CASCADE CONSTRAINTS
+
+DROP TABLE cliente CASCADE CONSTRAINTS
+
+DROP TABLE estoque CASCADE CONSTRAINTS
+
+DROP TABLE cidade CASCADE CONSTRAINTS
+
+DROP TABLE estado CASCADE CONSTRAINTS
+
+DROP TABLE pais CASCADE CONSTRAINTS
+
+DROP TABLE tipo_movimento_estoque CASCADE CONSTRAINTS
+
